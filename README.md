@@ -1,6 +1,6 @@
 # Capistrano::env-config
 
-Loads a `.env` file in the same directory as your Capfile. Entries are automatially loaded as environment variables and can be accessed in Capistrano as ENV['VAR'] e.g. 
+Loads a `.env` file in the same directory as your Capfile. Entries are automatially loaded as environment variables and can be accessed in Capistrano as `ENV['VAR']` e.g. 
 
 ```ruby
 # .env
