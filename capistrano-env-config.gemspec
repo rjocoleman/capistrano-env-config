@@ -17,5 +17,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_dependency 'capistrano', '~> 3.0'
-  spec.add_dependency 'dotenv', '~> 0.9'
+  spec.add_dependency 'dotenv', '~> 2.0'
 end
