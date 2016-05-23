@@ -33,7 +33,7 @@ And then execute:
 ## Usage
 
     # Capfile
-    require 'capistrano/env-config
+    require 'capistrano/env-config'
 
 ## Contributing
 
